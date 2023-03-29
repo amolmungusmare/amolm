@@ -1,0 +1,2 @@
+# amolm
+My personal repository
