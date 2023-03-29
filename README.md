@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, This is Amol M (amol mungusmare).</h1>
-<h3 align="center">An aspiring frontend web developer from India</h3>
+<h1 align="center">Hi 👋, This is Amol Mungusmare.</h1>
+<h3 align="center">An aspiring Backend Developer. And now learning Frond-end also.</h3>
